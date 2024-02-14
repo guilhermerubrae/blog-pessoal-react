@@ -1,0 +1,16 @@
+body{
+    background-color: rgba(32, 137, 102, 0.34);
+}
+
+.titulo{
+    color: rgb(40, 129, 71);
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.img{
+    width: 500px;
+    height: 500px;
+    display: block;
+    margin: 0 auto;
+}
